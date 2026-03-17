@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "Teenage Dream",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2026-03-17T23:15:52.356304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Teenage Dream",
+      "artist": "Collarbones",
+      "has_synced": true,
+      "path": "select/01_Teenage_Dream_Collarbones.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Teenage Dream",
+      "artist": "Karmin",
+      "has_synced": true,
+      "path": "select/02_Teenage_Dream_Karmin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Teenage Dream",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/03_Teenage_Dream_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Teenage Dream",
+      "artist": "Marc Bolan feat. T. Rex",
+      "has_synced": false,
+      "path": "select/04_Teenage_Dream_Marc_Bolan_feat._T._Rex.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Teenage Dream",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/05_Teenage_Dream_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Teenage Dream (Glee Cast Concert Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/06_Teenage_Dream_(Glee_Cast_Concert_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Teenage Dream (acoustic version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/07_Teenage_Dream_(acoustic_version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Teenage Dream (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/08_Teenage_Dream_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Teenage Dream",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/09_Teenage_Dream_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Teenage Dream (Manhattan Clique Remix)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/10_Teenage_Dream_(Manhattan_Clique_Remix)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Teenage Dream - Vandalism V8 Vocal Remix",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/11_Teenage_Dream_-_Vandalism_V8_Vocal_Remix_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Teenage Dream",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/12_Teenage_Dream_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Teenage Dream",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/13_Teenage_Dream_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Teenage Dream",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/14_Teenage_Dream_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Teenage Dream - Kaskade Club Remix",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/15_Teenage_Dream_-_Kaskade_Club_Remix_Katy_Perry.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Teenage Dream (Kaskade Remix)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/16_Teenage_Dream_(Kaskade_Remix)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "TEENAGE DREAM",
+      "artist": "T.Rex",
+      "has_synced": false,
+      "path": "select/17_TEENAGE_DREAM_T.Rex.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ballad of a Teenage Queen",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/18_Ballad_of_a_Teenage_Queen_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Teenage Daughter",
+      "artist": "Fat Truckers",
+      "has_synced": false,
+      "path": "select/19_Teenage_Daughter_Fat_Truckers.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Teenage Fever",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/20_Teenage_Fever_Drake.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Teenage Wildlife",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/21_Teenage_Wildlife_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Teenage Wildlife",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/22_Teenage_Wildlife_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "TEENAGE RIOT",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/23_TEENAGE_RIOT_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Teenage Exorcists",
+      "artist": "Mogwai",
+      "has_synced": true,
+      "path": "select/24_Teenage_Exorcists_Mogwai.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Teenage Love",
+      "artist": "Magic Wands",
+      "has_synced": false,
+      "path": "select/25_Teenage_Love_Magic_Wands.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Teenage Kicks",
+      "artist": "Nouvelle Vague",
+      "has_synced": false,
+      "path": "select/26_Teenage_Kicks_Nouvelle_Vague.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "That Teenage Feeling",
+      "artist": "Neko Case",
+      "has_synced": true,
+      "path": "select/27_That_Teenage_Feeling_Neko_Case.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Teenage Rebel",
+      "artist": "Pink Fairies",
+      "has_synced": false,
+      "path": "select/28_Teenage_Rebel_Pink_Fairies.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Gimme Gimme Teenage Head",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/29_Gimme_Gimme_Teenage_Head_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Teenage Angst",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/30_Teenage_Angst_Placebo.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Teenage Angst",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/31_Teenage_Angst_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Teenage Angst",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/32_Teenage_Angst_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Teenage Angst (piano version)",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/33_Teenage_Angst_(piano_version)_Placebo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Teenage Dream",
+      "artist": "fujii kaze",
+      "has_synced": false,
+      "path": "select/pl_01_Teenage_Dream_fujii_kaze.txt"
+    }
+  ]
+}
